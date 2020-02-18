@@ -1,0 +1,31 @@
+///SOME BASICS OF JS
+
+
+// How to apply js extension 
+
+<script src = "File name here"></script>
+
+<!--------------------------------------------------------->
+
+// Send Something on body using script
+
+document.write("put message here");
+
+<!--------------------------------------------------------->
+
+//HTML Tags using in JS
+
+<script>
+    document.write("Hello Ankit<br>");
+</script>
+
+<!--------------------------------------------------------->
+
+//Comments in JS
+
+One Line comments like:------         //here is comment
+two lines comments like:------        /*here is comment
+                                        which can be on multiple*/
+
+<!--------------------------------------------------------->
+

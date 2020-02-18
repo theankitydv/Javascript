@@ -1,0 +1,62 @@
+//basics of variables
+
+<script>
+var x = "yahoo baba";
+document.write(x);
+</script>
+
+//Output:  yahoo baba
+
+<!----------------------------------------------------------->
+
+var z = "hello world";
+var a = "hello ankit";
+
+document.write(z);
+document.write(a);
+
+//Output: hello worldhello ankit (for space b/w them use <br> tag)
+//document.write("<br>");
+
+<!----------------------------------------------------------->
+
+var z = "ankit";
+z="yadav";
+
+//Output: yadav (overwrite)
+
+<!----------------------------------------------------------->
+
+=> Right ways for declare variables
+
+    1. firstname
+    2. first_name
+    3. first-name
+    4. firstName
+    5. firstname99
+    
+=> Wrong ways for declaring variables
+
+  1. first name
+  2. 99firstname
+  
+<!----------------------------------------------------------->
+
+eg. var firstname= "Hello World";
+      document.write(firstname);
+      
+ //Output: Hello World
+ 
+<!----------------------------------------------------------->
+
+eg2. var first, second;
+
+first = "ankit";
+secovnd = "yadav";
+
+document.write(first);
+
+//Output: ankit
+
+<!----------------------------------------------------------->
+
